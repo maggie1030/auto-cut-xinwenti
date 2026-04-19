@@ -1,0 +1,20 @@
+.DS_Store
+*.log
+Thumbs.db
+__pycache__/
+*.py[cod]
+
+# 成片与中间产物（体积大，本地生成即可）
+video-pipeline/out/
+
+# 依赖
+video-pipeline/node_modules/
+video-pipeline/.env.venv/
+
+# 个人素材（体积大）；保留演示用 _demo 目录
+video-pipeline/assets/video/*
+!video-pipeline/assets/video/_demo/
+!video-pipeline/assets/video/_demo/**
+video-pipeline/assets/audio/*
+!video-pipeline/assets/audio/_demo/
+!video-pipeline/assets/audio/_demo/**

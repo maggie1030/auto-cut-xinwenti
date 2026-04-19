@@ -1,0 +1,36 @@
+{
+  "_comment": "样式 preset：被 episode JSON 的 style_preset 引用；可继续追加 yellow_bar / minimal等。",
+  "default": {
+    "fontName": "Noto Sans CJK SC Medium",
+    "fontSize": 46,
+    "primary": "#FFFFFF",
+    "outline": "#000000",
+    "outlineWidth": 3,
+    "alignment": 2,
+    "marginV": 140,
+    "shadow": 2
+  },
+  "yellow_bar": {
+    "fontName": "Noto Sans CJK SC Bold",
+    "fontSize": 44,
+    "primary": "#1a1a1a",
+    "outline": "#FFFFFF",
+    "outlineWidth": 2,
+    "alignment": 2,
+    "marginV": 160,
+    "shadow": 0,
+    "box": true,
+    "boxColor": "#F5E6A3CC",
+    "boxBorderW": 16
+  },
+  "high_contrast": {
+    "fontName": "Noto Sans CJK SC Bold",
+    "fontSize": 48,
+    "primary": "#FFF100",
+    "outline": "#000000",
+    "outlineWidth": 4,
+    "alignment": 2,
+    "marginV": 130,
+    "shadow": 3
+  }
+}

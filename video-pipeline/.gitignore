@@ -1,0 +1,6 @@
+out/*
+!out/.gitkeep
+node_modules/
+.DS_Store
+*.log
+.env.venv/

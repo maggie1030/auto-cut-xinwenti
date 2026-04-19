@@ -1,0 +1,2 @@
+# 字幕烧录（无 libass 的 ffmpeg 也可用）：生成 PNG + overlay
+Pillow>=10.0.0

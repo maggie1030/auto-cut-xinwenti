@@ -1,0 +1,3 @@
+# 可选：人声转写与时间轴（GPU/CPU 依环境而定）
+# 安装: python3 -m venv .venv && source .venv/bin/activate && pip install -r requirements-whisper.txt
+faster-whisper>=1.0.0

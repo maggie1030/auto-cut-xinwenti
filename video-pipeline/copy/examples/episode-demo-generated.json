@@ -1,0 +1,20 @@
+{
+  "id": "episode-demo-generated",
+  "version": "1",
+  "seed": 7,
+  "style_preset": "yellow_bar",
+  "assets": {
+    "video": ["_demo/demo-clip-a.mp4", "_demo/demo-clip-b.mp4"],
+    "audio": "_demo/demo-voiceover.wav"
+  },
+  "slots": {
+    "hook": "演示：npm run bootstrap-demo 生成的占位素材。",
+    "benefit": "正式使用请换成你自己的画面与口播音频文件名。",
+    "pivot": "timing_mode 支持 equal_by_slot 或 by_char_weight。",
+    "close": "seed 相同则槽位轮换策略可复现（见 README）。"
+  },
+  "timing_mode": "by_char_weight",
+  "output": {
+    "filename": "episode-demo-generated.mp4"
+  }
+}

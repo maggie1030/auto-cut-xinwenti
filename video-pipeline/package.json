@@ -1,0 +1,16 @@
+{
+  "name": "video-pipeline",
+  "version": "0.1.0",
+  "private": true,
+  "description": "短视频素材剪辑与批量成片：ffmpeg 主路径 + 槽位化文案（copy/）",
+  "scripts": {
+    "setup": "bash scripts/setup-env.sh",
+    "check": "node scripts/self-check.mjs",
+    "validate": "node scripts/validate-copy.mjs",
+    "validate:example": "node scripts/validate-copy.mjs copy/examples/episode-001.json",
+    "bootstrap-demo": "bash scripts/bootstrap-demo-assets.sh",
+    "render": "bash scripts/render.sh",
+    "render:example": "bash scripts/render.sh copy/examples/episode-001.json",
+    "render:demo": "bash scripts/render.sh copy/examples/episode-demo-generated.json"
+  }
+}

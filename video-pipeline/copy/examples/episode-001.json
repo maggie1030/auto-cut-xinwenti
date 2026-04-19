@@ -1,0 +1,20 @@
+{
+  "id": "episode-001",
+  "version": "1",
+  "seed": 42,
+  "style_preset": "default",
+  "assets": {
+    "video": ["sample-a.mp4", "sample-b.mp4"],
+    "audio": "voiceover.wav"
+  },
+  "slots": {
+    "hook": "先把画面和配音放进目录，一条命令导出成片。",
+    "benefit": "叙事结构固定：钩子—利益点—降门槛—收尾，但每条槽位文案可换。",
+    "pivot": "大字幕按槽位切段显示，适配竖屏引流节奏。",
+    "close": "改 copy 里的几条字就能出新片，样式用 preset 轮换降低重复感。"
+  },
+  "timing_mode": "equal_by_slot",
+  "output": {
+    "filename": "episode-001.mp4"
+  }
+}

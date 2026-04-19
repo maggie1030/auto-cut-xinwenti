@@ -1,0 +1,15 @@
+{
+  "_comment": "由你后续填入真实规则；校验脚本会读取此文件（缺失则仅警告）。",
+  "required_keywords": ["REPLACE_WITH_YOUR_MUST_SAY_KEYWORDS"],
+  "banned_words": ["REPLACE_WITH_FORBIDDEN_TERMS"],
+  "max_chars_per_slot": {
+    "hook": 28,
+    "benefit": 48,
+    "pivot": 40,
+    "close": 44
+  },
+  "compliance_notes": [
+    "避免虚构可核验身份的评价；「网友/用户」类话术需符合平台规范，建议用学员自述体或明确标注为个人体验。",
+    "具体禁用词、必选卖点、品牌口径以你业务为准，填在上面的列表中。"
+  ]
+}
