@@ -8,7 +8,8 @@
 2. 剪辑与渲染见子目录 **`video-pipeline/`**（`README.md`、环境自检 `npm run check`）。  
 3. 将自有画面/口播放入 `video-pipeline/assets/`，勿提交大文件；演示素材见各目录下的 `_demo/`。  
 4. 公众号发布用 **搭建 SOP 长文**：见 [`docs/公众号-新闻体剪辑与Cursor-Skill-SOP.md`](docs/公众号-新闻体剪辑与Cursor-Skill-SOP.md)（含 GitHub 地址与逐步操作）。  
-5. **Skill 能实现什么 + 制作回顾（总结）**：见 [`docs/Cursor-Skill-能力说明与制作回顾.md`](docs/Cursor-Skill-能力说明与制作回顾.md)。
+5. **Skill 能实现什么 + 制作回顾（总结）**：见 [`docs/Cursor-Skill-能力说明与制作回顾.md`](docs/Cursor-Skill-能力说明与制作回顾.md)。  
+6. **公众号口吻介绍（成峰式结构）**：见 [`docs/公众号-新闻体竖屏剪辑Skill介绍.md`](docs/公众号-新闻体竖屏剪辑Skill介绍.md)。
 
 ## 技能一览（`.cursor/skills/`）
 
