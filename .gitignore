@@ -18,3 +18,9 @@ video-pipeline/assets/video/*
 video-pipeline/assets/audio/*
 !video-pipeline/assets/audio/_demo/
 !video-pipeline/assets/audio/_demo/**
+
+# 本地成片任务 JSON（常含个人素材文件名与未公开文案）；保留 *example* 与 caption-002 模板
+video-pipeline/copy/final-jobs/final-[0-9]*.json
+!video-pipeline/copy/final-jobs/final-job.example.json
+video-pipeline/copy/caption-jobs/caption-0*.json
+!video-pipeline/copy/caption-jobs/caption-002.json

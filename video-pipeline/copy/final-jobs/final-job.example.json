@@ -1,0 +1,21 @@
+{
+  "job_name": "003",
+  "videos": [
+    "assets/video/A.MOV",
+    "assets/video/B.MOV",
+    "assets/video/C.MOV"
+  ],
+  "audio": "assets/audio/voiceover.MP4",
+  "line1": "第一行文案",
+  "line2": "第二行文案",
+  "line3": "第三行文案",
+  "bottom": "网友：底部评价文案",
+  "tone": "random",
+  "font_scale": 1.0,
+  "line1_y_pct": 0.09,
+  "line2_y_pct": 0.147,
+  "line3_y_pct": 0.201,
+  "bottom_center_y_pct": 0.725,
+  "stroke_scale": 0.72,
+  "keep_intermediate": true
+}

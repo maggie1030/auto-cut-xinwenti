@@ -1,0 +1,15 @@
+{
+  "in": "out/002.mp4",
+  "out": "out/002-caption.mp4",
+  "workdir": "out/_work/002-caption",
+  "line1": "副业党必学的 AI 技能",
+  "line2": "用 AI 批量做视频",
+  "line3": "被动引流接单",
+  "bottom": "网友：不用天天守着手机，客户自己来",
+  "line1_y_pct": 0.09,
+  "line2_y_pct": 0.147,
+  "line3_y_pct": 0.201,
+  "bottom_center_y_pct": 0.725,
+  "stroke_scale": 0.72,
+  "tone": "random"
+}
